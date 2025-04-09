@@ -1,8 +1,8 @@
 # Apple_Leaves_Disease_Classification2
 Apple_Leaves_Disease_Classification
 
-Agriculture is considered one of the essential imapct on human lifes on Earth. Countires economy is mainly related to the agriculture. Crops is encounted with varoius pathological attacks. One example of such is apple trees which gets attacked with varoius (e.g. apple scab, cedar apple
-rust, or multiple diseases, etc) diseases which influence thier production. This study presents an automatic apple leaves diseases detection using different deep learing approches based on the concept of transfer learning. The pre-trained models that have been used are densenet, effecientnet, MobileNetV2 and VGG16. batch size,optimizer, and learning rate are the parameters which have been analysed.
+Agriculture is considered one of the essential imapct on human lifes on Earth. Countires economy is mainly related to the agriculture. Crops is encounted with varoius pathological attacks. One example of such is apple trees which gets attacked with varoius diseases (e.g. apple scab, cedar apple
+rust, or multiple diseases, etc) which influence thier production. This study presents an automatic apple leaves diseases detection using different deep learing approches based on the concept of transfer learning. The pre-trained models that have been used are densenet, effecientnet, MobileNetV2 and VGG16. Batch size,optimizer, and learning rate are the parameters which have been analysed in this work.
 Commands:
 
 sudo apt update
